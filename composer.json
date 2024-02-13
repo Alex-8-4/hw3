@@ -1,0 +1,10 @@
+{
+    "name": "alexshutov/hw3",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alexshutov\\Hw3\\": "src/"
+        }
+    },
+    "require": {}
+}
