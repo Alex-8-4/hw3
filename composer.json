@@ -6,5 +6,7 @@
             "Alexshutov\\Hw3\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=8.2",
+    }
 }
