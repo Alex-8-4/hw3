@@ -4,7 +4,7 @@ homework 3
 
 ## Requirements
 
-php8.2
+php5.6
 
 ## Installation
 
